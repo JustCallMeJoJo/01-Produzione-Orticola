@@ -8,4 +8,4 @@
 
 ### Purpose of the exercise:
 
-Let us practice with the syntax and the different types of tags (block, inline, and self closing).
+Let us practice with HTML syntax and the different types of tags (block, inline, and self closing).
